@@ -1,0 +1,15 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folder - large files not tracked
+data/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# MacOS metadata
+.DS_Store
