@@ -34,6 +34,10 @@ This project demonstrates how to preprocess text data and build machine learning
    ```bash
    jupyter notebook notebooks/fake_news_detection.ipynb
    ```
+## 📥 Dataset Access
+
+Due to size constraints, the dataset is not included in this repository.  
+You can download the dataset from [Kaggle](https://www.kaggle.com/competitions/fake-news/data) and place it in the `data/` folder as `train.csv`.
 
 ## 📦 Requirements
 
