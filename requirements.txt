@@ -1,6 +1,12 @@
-numpy
+# requirements.txt
+```
 pandas
-nltk
-scikit-learn
+numpy
+swifter
+joblib
 matplotlib
 seaborn
+wordcloud
+scikit-learn
+```
+
